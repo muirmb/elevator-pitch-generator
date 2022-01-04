@@ -45,21 +45,8 @@ body, html {
     padding-right: 100px;
   }
 
-.textblock h2 {
-    font-size: 24pt;
-    font-weight: bold;
-}
-
-.textblock h3 {
-    font-size: 16pt;
-}
-
-.textblock p {
-    font-size: 12pt;
-}
 
 .blockquote {
-    font: 24pt;
     background-color: #;
     border-top: 3px solid #000;
     border-bottom: 3px solid #000;
